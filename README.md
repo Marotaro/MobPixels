@@ -19,7 +19,7 @@ Here’s a preview of some mobs (scaled up for visibility):
 
 | Zombie | Creeper | Cow |
 |--------|---------|-----|
-| ![Zombie](mob_assets/minecraft_zombie.png) | ![Creeper](mob_assets/minecraft_creeper.png) | ![Cow](mob_assets/minecraft_cow.png) |
+| <img src="mob_assets/minecraft_zombie.png" width="64"/> | <img src="mob_assets/minecraft_creeper.png" width="64"/> | <img src="mob_assets/minecraft_cow.png" width="64"/> |
 
 ---
 
